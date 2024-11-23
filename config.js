@@ -7,7 +7,7 @@ module.exports = {
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
-  PREFIX: process.env.PREFIX || "private.",
+  PREFIX: process.env.PREFIX || "coustom.",
   // Add Your Custom Prefix 
   "MODE": "private",
   // Add Your Bot Mode 
