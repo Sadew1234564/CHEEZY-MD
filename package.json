@@ -1,11 +1,11 @@
 {
-  "name": "SAHAS-MD",
+  "name": "SADEW-MD",
   "version": "1.0.0",
-  "description": "SAHAS-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
+  "description": "CHEEZY-MD MULTI DEVICE WHATSAPP BOT BY SADEW TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SAHAS-MD",
-    "stop": "pm2 stop SAHAS-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name SADEW-MD",
+    "stop": "pm2 stop CHEEZY-MD",
     "restart": "pm2 restart SAHAS-MD"
   },
   "dependencies": {
