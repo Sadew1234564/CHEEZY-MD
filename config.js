@@ -9,7 +9,7 @@ module.exports = {
     // ADD Your MongoDB Database URL
   PREFIX: process.env.PREFIX || "private.",
   // Add Your Custom Prefix 
-  mode: process.env.mode || "private",
+  "MODE": "private",
   // Add Your Bot Mode 
   // private = Only Working For Owner Number
   // public = AnyOne Working
