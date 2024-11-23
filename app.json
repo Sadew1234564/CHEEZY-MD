@@ -1,7 +1,7 @@
 {
-  "name": "SAHAS-MD",
-  "description": "Javascript WhatsApp bot made by Sahas Tech",
-  "logo": "https://telegra.ph/file/1e4ba22b080c8fd6134f2.jpg",
+  "name": "SADEW-MD",
+  "description": "Javascript WhatsApp bot made by Sadew Tech",
+  "logo": "https://files.catbox.moe/wssocv.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -17,27 +17,27 @@
       "default": ""
     },
     "PREFIX": {
-      "description": "Add Your Custom Prefix here.",
+      "description": "hey there 🤗i am CHEEZY Whatsapp bot i created by sadew sunera💗.",
       "required": true,
       "default": "."
     },
     "mode": {
       "description": "Add Your Bot Mode (private, public, inbox, groups) here.",
       "required": true,
-      "default": "public"
+      "default": "private"
     },
     "OWNER_NUMBER": {
       "description": "Owner Number",
       "required": true,
-      "default": "94718913389"
+      "default": "94783443503"
     },
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.catbox.moe/wssocv.jpg.",
       "required": true,
       "default": ""
     },
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "hey 👋 there i am cheezy Whatsapp bot. i created by sadew sunera💗🧡.",
       "required": true,
       "default": ""
     },
@@ -69,7 +69,7 @@
     "ALWAYS_ONLINE": {
       "description": "Always online feature (true/false)",
       "required": false,
-      "default": "false"
+      "default": "true"
     },
     "ALWAYS_TYPING": {
       "description": "Always typing feature (true/false)",
@@ -94,12 +94,12 @@
     "packname": {
       "description": "Pack name for your bot",
       "required": false,
-      "default": "SAHAS TECH"
+      "default": "SADEW TECH"
     },
     "author": {
       "description": "Author name for your bot",
       "required": false,
-      "default": "SAHAS TECH"
+      "default": "SADEW TECH"
     },
     "OPENWEATHER_API_KEY": {
       "description": "API key for OpenWeather",
